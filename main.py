@@ -3,8 +3,8 @@ import re
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, ConversationHandler, CallbackQueryHandler, filters
 
-TEXTS_PATH = '/Users/mikhailf/PycharmProjects/bot_tg/texts'
-IMAGES_PATH = '/Users/mikhailf/PycharmProjects/bot_tg/images'
+TEXTS_PATH = '/Users/mikhailf/PycharmProjects/Library_tgbot/texts'
+IMAGES_PATH = '/Users/mikhailf/PycharmProjects/Library_tgbot/images'
 
 TOKEN = ''
 
